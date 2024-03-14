@@ -34,4 +34,4 @@ SELECT *FROM Product WHERE ProductName LIKE 'Dog%'
 --Lay list sp end Tard
 SELECT * FROM Product WHERE ProductName LIKE '%tard'
 Lay list sp co chua chu Mus
-SELECT * FROM Product WHERE ProductName LIKE '%MUS%'
+SELECT * FROM Product WHERE ProductName LIKE '%MUS%'huguyguygyugyuuyg
